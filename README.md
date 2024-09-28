@@ -1,17 +1,20 @@
 # Network analysis of authors on Clientelism and political power in Latin America
 
 
+Este proyecto contiene un análisis de redes basado en autores que investigan sobre clientelismo y poder político en América Latina.
 
-## Visualización de la Red de Coautorías
+## Visualizaciones de la red de coautorías
 
 ### Red de Coautorías Completa
-![Red de Coautorías](images/coauthor_network.png)
+![Red de Coautorías](coauthor_network.png)
 
 ### Comunidades Detectadas en la Red
-![Comunidades en la Red](images/community_network.png)
+![Comunidades en la Red](community_network.png)
 
 ### Componentes Conectados
-![Componentes Conectados](images/connected_components.png)
+![Componentes Conectados](connected_components.png)
 
 ### Red Filtrada por Coautorías
-![Red Filtrada](images/filtered_coauthor_network.png)
+![Red Filtrada](filtered_coauthor_network.png)
+
+---
