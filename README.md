@@ -3,7 +3,7 @@
 
 Este proyecto contiene un análisis de redes basado en autores que investigan sobre clientelismo y poder político en América Latina.
 
-## Visualizaciones de la red de coautorías
+## Visualizaciones de la red
 
 ### Red de Coautorías Completa
 ![Red de Coautorías](coauthor_network.png)
